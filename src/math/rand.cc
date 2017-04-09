@@ -16,3 +16,4 @@ uint32_t Rand(uint32_t max, uint32_t seed) {
 
 }
 }
+///²»»áÓÃ°¡
